@@ -1,0 +1,23 @@
+.filter-area {
+  margin: 10px 0;
+}
+
+.filter-area button {
+  margin: 0 5px;
+  padding: 6px 10px;
+  border: none;
+  background-color: #e0e0e0;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.filter-area button:hover {
+  background-color: #d0d0d0;
+}
+.react-calendar {
+  max-width: 350px;
+  margin: 0 auto 20px auto;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 0 0 10px #ccc;
+}
